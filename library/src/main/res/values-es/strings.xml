@@ -1,11 +1,11 @@
 <resources>
-    <string name="material_calendar_monday">L</string>
-    <string name="material_calendar_tuesday">M</string>
-    <string name="material_calendar_wednesday">M</string>
-    <string name="material_calendar_thursday">J</string>
-    <string name="material_calendar_friday">V</string>
-    <string name="material_calendar_saturday">S</string>
-    <string name="material_calendar_sunday">D</string>
+    <string name="material_calendar_monday">Lun</string>
+    <string name="material_calendar_tuesday">Mar</string>
+    <string name="material_calendar_wednesday">Mie</string>
+    <string name="material_calendar_thursday">Jue</string>
+    <string name="material_calendar_friday">Vie</string>
+    <string name="material_calendar_saturday">Sab</string>
+    <string name="material_calendar_sunday">Dom</string>
 
     <array name="material_calendar_months_array">
         <item>Enero</item>
