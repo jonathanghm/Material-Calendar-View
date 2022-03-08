@@ -8,8 +8,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.bowhead.android'
-                artifactId = 'calendar'
+                groupId = 'com.applandeo'
+                artifactId = 'materialcalendarview'
                 version = '1.9.1'
             }
         }
